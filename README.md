@@ -1,6 +1,8 @@
 # Assignment 1 – Adaline and Logistic Regression
 Name: Joshua Sadler
 
+https://github.com/Joshua-Sadler/Adaline-LogisticRegression.git
+
 This project implements the following algorithms:
 
 - Perceptron

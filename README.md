@@ -51,12 +51,12 @@ Always run commands from the project root directory.
 
 Example:
 
-cd Adaline-LogisticRegression
+`cd Adaline-LogisticRegression`
 
 
 Task 1 & 2 – Binary Comparison (Iris & Wine)
 
-python -m experiments.comparison
+`python -m experiments.comparison`
 
 This will:
 - Train Adaline and Logistic Regression
@@ -66,7 +66,7 @@ This will:
 
 Task 3 – Multiclass Iris (Perceptron One-vs-Rest)
 
-python -m experiments.iris_multiclass_perceptron
+`python -m experiments.iris_multiclass_perceptron`
 
 This will:
 - Train 3 Perceptrons (One-vs-Rest)
@@ -76,7 +76,7 @@ This will:
 
 Task 4 – GD vs SGD vs Mini-Batch (Wine Dataset)
 
-python -m experiments.wine_gd_sgd_comparison
+`python -m experiments.wine_gd_sgd_comparison`
 
 This will:
 - Train Logistic Regression using:
